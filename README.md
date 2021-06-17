@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulraheembashir043
+- 👋 Hi, I’m a Junior Web Developer
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on Web Development
