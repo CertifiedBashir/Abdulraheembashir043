@@ -1,7 +1,6 @@
-- 👋 Hi, I’m a Certfied Associate Data Analyst and a Web Developer
-- 👀 I’m interested in Data Analysis and Software Engineering
-- 🌱 I’m currently learning and exploring Data
-- 💞️ I’m looking to collaborate on Data Analysis and Web Development
+- 👋 Hi, I’m a Certfied Associate Data Analyst by DataCamp
+- 🌱 I’m currently learning about and exploring the abundant opportunities made available by Data
+- 👀 I’m interested to collaborate on Data Analytics
 - 📫 How to reach me abdulraheembashir043@gmail.com
 
 <!---
