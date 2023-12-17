@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a Certfied Associate Data Analyst by DataCamp
-- 🌱 I’m currently learning about and exploring the abundant opportunities made available by Data
+- 🌱 I’m currently exploring the abundant opportunities made available by Data
 - 👀 I’m interested to collaborate on Data Analytics
 - 📫 How to reach me abdulraheembashir043@gmail.com
 
